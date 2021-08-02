@@ -1,9 +1,9 @@
 <?php
 
-namespace Test;
+namespace OupyTest;
   
 require_once __DIR__.'/../src/ListenerInterface.php';
-use Test\ListenerInterface;
+use OupyTest\ListenerInterface;
   
 
 //C  也监听这两个事件

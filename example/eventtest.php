@@ -8,13 +8,13 @@ require_once 'EventB.php';
 require_once __DIR__.'/../src/EventDispatcher.php';  
 require_once __DIR__.'/../src/ListenerProvider.php'; 
 
-use Test\ClassA;
-use Test\ClassB;
-use Test\ClassC;
-use Test\EventA;
-use Test\EventB; 
-use Test\ListenerProvider;
-use Test\EventDispatcher;
+use OupyTest\ClassA;
+use OupyTest\ClassB;
+use OupyTest\ClassC;
+use OupyTest\EventA;
+use OupyTest\EventB; 
+use OupyTest\ListenerProvider;
+use OupyTest\EventDispatcher;
 
 $a = new ClassA();
 

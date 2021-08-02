@@ -1,9 +1,9 @@
 <?php
-namespace Test;
+namespace OupyTest;
   
 require_once __DIR__.'/../src/ListenerInterface.php';
  
-use Test\ListenerInterface;
+use OupyTest\ListenerInterface;
 
 //B
 Class ClassB implements ListenerInterface

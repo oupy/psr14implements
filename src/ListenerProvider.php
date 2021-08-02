@@ -1,5 +1,5 @@
 <?php
-namespace Test;
+namespace OupyTest;
 
 require 'vendor/autoload.php';
 require_once 'ListenerData.php';
@@ -7,7 +7,7 @@ require_once 'ListenerData.php';
 
 use Psr\EventDispatcher\ListenerProviderInterface;
 use SplPriorityQueue;
-use Test\ListenerData;
+use OupyTest\ListenerData;
 /**
  * 
  */

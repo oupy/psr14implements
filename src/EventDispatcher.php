@@ -1,5 +1,5 @@
 <?php
-namespace Test;
+namespace OupyTest;
 
 require 'vendor/autoload.php';
 

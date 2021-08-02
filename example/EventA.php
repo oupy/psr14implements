@@ -1,6 +1,6 @@
 <?php
 
-namespace Test;
+namespace OupyTest;
 require 'vendor/autoload.php';
 use Psr\EventDispatcher\StoppableEventInterface;
 
