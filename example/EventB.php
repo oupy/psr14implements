@@ -1,6 +1,5 @@
 <?php
-
-namespace OupyTest;
+ 
 
 //打扫完成事件
 Class EventB

@@ -1,5 +1,5 @@
 {
-    "name": "oupytest/psr14implements",
+    "name": "psr/14",
     "description": "psr14,simple implements,and example",
     "author": "oupy",
     "license": "MIT",
@@ -11,7 +11,8 @@
         "docs": "https://www.php-fig.org/psr/psr-14/"
     },
     "require": {
-        "php": ">=7.2", 
+        "php": ">=7.2",
+        "phpunit/phpunit": "^9.5",
         "psr/event-dispatcher": "^1.0"
     },
     "require-dev": {

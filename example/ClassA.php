@@ -1,6 +1,5 @@
 <?php
-
-namespace OupyTest;
+ 
 
 //A
 Class ClassA

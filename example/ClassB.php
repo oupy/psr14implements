@@ -1,7 +1,6 @@
-<?php
-namespace OupyTest;
+<?php 
   
-require_once __DIR__.'/../src/ListenerInterface.php';
+require_once __DIR__.'/../src/autoload.php';   
  
 use OupyTest\ListenerInterface;
 

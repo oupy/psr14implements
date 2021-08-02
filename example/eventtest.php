@@ -1,18 +1,7 @@
 <?php
-
-require_once 'ClassA.php';
-require_once 'ClassB.php';
-require_once 'ClassC.php';
-require_once 'EventA.php';
-require_once 'EventB.php'; 
-require_once __DIR__.'/../src/EventDispatcher.php';  
-require_once __DIR__.'/../src/ListenerProvider.php'; 
-
-use OupyTest\ClassA;
-use OupyTest\ClassB;
-use OupyTest\ClassC;
-use OupyTest\EventA;
-use OupyTest\EventB; 
+ 
+require_once __DIR__.'/../src/autoload.php';   
+ 
 use OupyTest\ListenerProvider;
 use OupyTest\EventDispatcher;
 
